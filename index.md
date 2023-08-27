@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages (editted by Wang5836)
-# Hubert Wang's First CS193 Homework
+# Bo Jun Wang's First CS193 Homework
 # Favorite things about CS193
 - the interesting icebreakers
 
